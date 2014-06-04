@@ -1,4 +1,4 @@
 fvno
 ====
 
-Frozen Virtual Natural Orbitals
+PSI4 plugin for generating frozen-virtual natural orbitals.
